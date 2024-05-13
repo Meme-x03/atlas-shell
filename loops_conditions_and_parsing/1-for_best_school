@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-for Best School in 
+head -n 2 1-for_best_school | tail -1 | head -c 1
