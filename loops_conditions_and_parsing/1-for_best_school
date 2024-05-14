@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-head -n 2 1-for_best_school | tail -1 | head -c 1
+for (( c=1; c<=10; c++ ))
+do
+	echo "Best School"
+done
